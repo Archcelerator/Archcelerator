@@ -100,6 +100,7 @@ p {
 .btn-registrazione{
   width: 100%;
   border-radius:25px;
+  font-family: inherit;
 }
 
 .progetta-icon{
