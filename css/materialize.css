@@ -5944,7 +5944,7 @@ body.keyboard-focused .dropdown-content li:focus {
 .chip {
   display: inline-block;
   height: 32px;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 500;
   color: rgba(0, 0, 0, 0.6);
   line-height: 32px;
