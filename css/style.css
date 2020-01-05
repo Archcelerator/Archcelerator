@@ -175,7 +175,7 @@ Banner
 Single
 -----------------------------*/
 .panel{}
-.panel__copy{max-width: 800px; margin: 0px auto; margin-top: -18px; background: #ccc; padding:20px 40px;position: relative; z-index: 1}
+.panel__copy{max-width: 800px; margin: 0px auto; margin-top: -10px; background: #ccc; padding:20px 40px;position: relative; z-index: 1}
 .panel__copy__meta{font-weight: bold;font-size: 16px; }
 .panel__copy__title{font-size: 32px;}
 
